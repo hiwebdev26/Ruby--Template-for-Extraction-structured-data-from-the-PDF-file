@@ -1,0 +1,346 @@
+---
+:fleetone_address: FleetOne Holdings, LLC, PO Box 630038, Cincinnati, OH 45263-0038
+:own_address: ACR Logistics LLC, 460 ZION ROAD, EGG HARBOR TOWNSHIP, NJ 08234
+:statement_date: 2024-10-16
+:statement_period:
+  :start: 2024-10-14
+  :end: 2024-10-16
+:customer_number: '3770001905718'
+:statement_number: '80394907'
+:voice_number:
+:fax:
+:email: transportauto10@gmail.com
+:account_summary:
+  :overall_credit_limit: 7000
+  :credit_deposit: 0
+:payment_summary:
+  :payment: -2253.29
+  :total: -2253.29
+:balance_summary:
+  :beginning_balance: 2253.29
+  :payment_total: -2253.29
+  :balance_after_payments: 0
+  :statement_total: 2596.38
+  :ending_account_balance: 2596.38
+  :past_due_balance: 0
+:statement_activity:
+  reefer: 111.36
+  other: 7.95
+  diesel: 2406.2
+  def: 70.87
+  :statement_total: 2596.38
+:ending_account_balance: 2596.38
+:statement_due_date: 2024-10-18
+:fuel_transaction_summary:
+  Diesel:
+    count: 5
+    total_volume: 742.4
+    gross_ppu: 4.25
+    sub_total: 3155.26
+    discount_amount: 749.06
+    net_ppu: 3.24
+    total_amount: 2406.2
+  Reefer:
+    count: 2
+    total_volume: 33.87
+    gross_ppu: 4.03
+    sub_total: 136.78
+    discount_amount: 25.42
+    net_ppu: 3.28
+    total_amount: 111.36
+  Unleaded:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  CNG:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  LNG:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  Propane:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  Kerosene:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  DEF:
+    count: 2
+    total_volume: 18.69
+    gross_ppu: 3.79
+    sub_total: 70.87
+    discount_amount: 0
+    net_ppu: 3.79
+    total_amount: 70.87
+:statement_details:
+- date: 2024-10-14
+  category: Beginning Balance 10/14/24
+  use:
+  description:
+  card:
+  unit:
+  prompt_data:
+  check_number:
+  location_number:
+  location_name:
+  state:
+  quantity: 0
+  gross_ppg: 0
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 0
+  discrete_amount: 0
+  fees: 0
+  total_amount: 2253.29
+- date: 2024-10-14
+  category: PMT
+  use:
+  description: Payment Receipt
+  card: PMT
+  unit:
+  prompt_data:
+  check_number:
+  location_number:
+  location_name:
+  state:
+  quantity: 0
+  gross_ppg: 0
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 0
+  discrete_amount: 0
+  fees: 0
+  total_amount: -2253.29
+- date: 2024-10-15
+  category: OTHER
+  use:
+  description: MONTHLY ACCT MAINT F
+  card: '00000'
+  unit:
+  prompt_data:
+  check_number: '26044837'
+  location_number:
+  location_name:
+  state:
+  quantity: 1
+  gross_ppg: 0
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 7.95
+  discrete_amount: 0
+  fees: 0
+  total_amount: 7.95
+- date: 2024-10-14
+  category: Diesel
+  use:
+  description: ULTRA LOW SULFUR DIESEL
+  card: '00369'
+  unit: '106'
+  prompt_data: N-CARLOSOLIVERA
+  check_number: '1309945398'
+  location_number: '514511'
+  location_name: TA WILLINGTON
+  state: CT
+  quantity: 152.68
+  gross_ppg: 5.399
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 824.32
+  discrete_amount: 306.73
+  fees: 0
+  total_amount: 517.59
+- date: 2024-10-14
+  category: Diesel
+  use:
+  description: ULTRA LOW SULFUR DIESEL
+  card: '00013'
+  unit: '103'
+  prompt_data: N-WALIDELGEDAWY
+  check_number: '1310089823'
+  location_number: '514614'
+  location_name: PETRO BORDENTOWN
+  state: NJ
+  quantity: 143.92
+  gross_ppg: 4.039
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 581.28
+  discrete_amount: 107.2
+  fees: 0
+  total_amount: 474.08
+- date: 2024-10-15
+  category: DEF
+  use:
+  description: DEF BULK
+  card: '00294'
+  unit: '108'
+  prompt_data: N-AnthonyJohnson
+  check_number: '1310391169'
+  location_number: '502045'
+  location_name: AUBURN IRVING
+  state: ME
+  quantity: 8.37
+  gross_ppg: 3.999
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 33.46
+  discrete_amount: 0
+  fees: 0
+  total_amount: 33.46
+- date: 2024-10-15
+  category: Reefer
+  use:
+  description: REEFER
+  card: '00294'
+  unit: '108'
+  prompt_data: N-AnthonyJohnson
+  check_number: '1310391169'
+  location_number: '502045'
+  location_name: AUBURN IRVING
+  state: ME
+  quantity: 0.03
+  gross_ppg: 3.999
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 0.12
+  discrete_amount: 0.02
+  fees: 0
+  total_amount: 0.1
+- date: 2024-10-15
+  category: Diesel
+  use:
+  description: PRODUCT [ULSD]
+  card: '00294'
+  unit: '108'
+  prompt_data: N-AnthonyJohnson
+  check_number: '1310391169'
+  location_number: '502045'
+  location_name: AUBURN IRVING
+  state: ME
+  quantity: 177.05
+  gross_ppg: 3.999
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 708.01
+  discrete_amount: 139.86
+  fees: 0
+  total_amount: 568.15
+- date: 2024-10-15
+  category: DEF
+  use:
+  description: DIESEL EXHAUST FLUID UREA
+  card: '00260'
+  unit: '111'
+  prompt_data: N-HAROLDUTLEY
+  check_number: '1310556823'
+  location_number: '514614'
+  location_name: PETRO BORDENTOWN
+  state: NJ
+  quantity: 8.32
+  gross_ppg: 4.499
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 37.41
+  discrete_amount: 0
+  fees: 0
+  total_amount: 37.41
+- date: 2024-10-15
+  category: Diesel
+  use:
+  description: ULTRA LOW SULFUR DIESEL
+  card: '00260'
+  unit: '111'
+  prompt_data: N-HAROLDUTLEY
+  check_number: '1310556823'
+  location_number: '514614'
+  location_name: PETRO BORDENTOWN
+  state: NJ
+  quantity: 131.75
+  gross_ppg: 4.039
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 532.15
+  discrete_amount: 98.96
+  fees: 0
+  total_amount: 433.19
+- date: 2024-10-15
+  category: Reefer
+  use:
+  description: REEFER ULTRA LOW SULFUR
+  card: '00260'
+  unit: '111'
+  prompt_data: N-HAROLDUTLEY
+  check_number: '1310556823'
+  location_number: '514614'
+  location_name: PETRO BORDENTOWN
+  state: NJ
+  quantity: 33.84
+  gross_ppg: 4.039
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 136.66
+  discrete_amount: 25.4
+  fees: 0
+  total_amount: 111.26
+- date: 2024-10-16
+  category: Diesel
+  use:
+  description: ULTRA LOW SULFUR DIESEL
+  card: '00344'
+  unit: '295'
+  prompt_data: N-JosueCastroGarcia#-0
+  check_number: '1311226583'
+  location_number: '514578'
+  location_name: TA GREENLAND
+  state: NH
+  quantity: 137
+  gross_ppg: 3.719
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 509.5
+  discrete_amount: 96.31
+  fees: 0
+  total_amount: 413.19
+- date: 2024-10-16
+  category: Ending Balance 10/16/24
+  use:
+  description:
+  card:
+  unit:
+  prompt_data:
+  check_number:
+  location_number:
+  location_name:
+  state:
+  quantity: 0
+  gross_ppg: 0
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 0
+  discrete_amount: 0
+  fees: 0
+  total_amount: 2596.38

@@ -1,0 +1,192 @@
+---
+:fleetone_address: FleetOne Holdings, LLC, PO Box 630038, Cincinnati, OH 45263-0038
+:own_address: ACR LOGISTICS LLC, 460 ZION ROAD, EGG HARBOR TOWNSHIP, NJ 08234
+:statement_date: 2024-10-28
+:statement_period:
+  :start: 2024-10-22
+  :end: 2024-10-28
+:customer_number: '3770002302389'
+:statement_number: '80722385'
+:voice_number:
+:fax:
+:email: acrlogisticscarrier@gmail.com
+:account_summary:
+  :overall_credit_limit: 4200
+  :credit_deposit: 0
+:payment_summary:
+  :payment: -1318.71
+  :total: -1318.71
+:balance_summary:
+  :beginning_balance: 1318.71
+  :payment_total: -1318.71
+  :balance_after_payments: 0
+  :statement_total: 242.31
+  :ending_account_balance: 242.31
+  :past_due_balance: 0
+:statement_activity:
+  diesel: 205.81
+  def: 36.5
+  :statement_total: 242.31
+:ending_account_balance: 242.31
+:statement_due_date: 2024-10-30
+:fuel_transaction_summary:
+  Diesel:
+    count: 1
+    total_volume: 57.9
+    gross_ppu: 3.97
+    sub_total: 230.4
+    discount_amount: 24.59
+    net_ppu: 3.55
+    total_amount: 205.81
+  Reefer:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  Unleaded:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  CNG:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  LNG:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  Propane:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  Kerosene:
+    count: 0
+    total_volume: 1
+    gross_ppu: 0
+    sub_total: 0
+    discount_amount: 0
+    net_ppu: 0
+    total_amount: 0
+  DEF:
+    count: 1
+    total_volume: 9
+    gross_ppu: 4
+    sub_total: 36
+    discount_amount: 0
+    net_ppu: 4.05
+    total_amount: 36.5
+:statement_details:
+- date: 2024-10-22
+  category: Beginning Balance 10/22/24
+  use:
+  description:
+  card:
+  unit:
+  prompt_data:
+  check_number:
+  location_number:
+  location_name:
+  state:
+  quantity: 0
+  gross_ppg: 0
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 0
+  discrete_amount: 0
+  fees: 0
+  total_amount: 1318.71
+- date: 2024-10-22
+  category: PMT
+  use:
+  description: Payment Receipt
+  card: PMT
+  unit:
+  prompt_data:
+  check_number:
+  location_number:
+  location_name:
+  state:
+  quantity: 0
+  gross_ppg: 0
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 0
+  discrete_amount: 0
+  fees: 0
+  total_amount: -1318.71
+- date: 2024-10-28
+  category: Diesel
+  use:
+  description: ULTRA LOW SULFUR DIESEL
+  card: '00135'
+  unit: '105'
+  prompt_data: N-Jaidel
+  check_number: '1315689395'
+  location_number: '516325'
+  location_name: FJ-MYERSTOWN 518
+  state: PA
+  quantity: 57.9
+  gross_ppg: 3.979
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 230.4
+  discrete_amount: 24.59
+  fees: 0
+  total_amount: 205.81
+- date: 2024-10-28
+  category: DEF
+  use:
+  description: DIESEL EXHAUST FLUID UREA
+  card: '00135'
+  unit: '105'
+  prompt_data: N-Jaidel
+  check_number: '1315689395'
+  location_number: '516325'
+  location_name: FJ-MYERSTOWN 518
+  state: PA
+  quantity: 8
+  gross_ppg: 4.499
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 36
+  discrete_amount: 0
+  fees: 0.5
+  total_amount: 36.5
+- date: 2024-10-28
+  category: Ending Balance 10/28/24
+  use:
+  description:
+  card:
+  unit:
+  prompt_data:
+  check_number:
+  location_number:
+  location_name:
+  state:
+  quantity: 0
+  gross_ppg: 0
+  sales_tax: 0
+  fed_tax: 0
+  gross_amount: 0
+  discrete_amount: 0
+  fees: 0
+  total_amount: 242.31
